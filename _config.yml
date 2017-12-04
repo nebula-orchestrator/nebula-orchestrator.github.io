@@ -4,7 +4,7 @@ title:               Nebula
 email:               nebula-orchestrator@googlegroups.com
 tagline:             Docker orchestrator for IoT & distrabuted systems
 url:                 "https://nebula-orchestrator.github.io/" # insert your site's URL
-baseurl:             "https://nebula-orchestrator.github.io/"
+baseurl:             ""
 
 # About/contact
 author: # you can edit these to be your personal details
