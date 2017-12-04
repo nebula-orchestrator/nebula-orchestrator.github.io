@@ -1,0 +1,48 @@
+
+# Setup
+title:               Nebula
+email:               nebula-orchestrator@googlegroups.com
+tagline:             Docker orchestrator for IoT & distrabuted systems
+url:                 "" # insert your site's URL
+baseurl:             ""
+
+# About/contact
+author: # you can edit these to be your personal details
+  name:              Naor Livne
+  url:               https://github.com/naorlivne/
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics: UA-100114714-2
+google_tag_manager:
+# Bing services
+bing_verification:
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/kevit/devaid-jekyll-theme
+
+# Gems - Dependencies for this theme
+gems:
+  # None currently
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+
+widgets:
+  - title: About
+    url: about
+    archor: true
+  - title: Features
+    url: features
+    archor: true
+  - title: Docs
+    url: docs
+    archor: true
+  - title: Contact
+    url: contact
+    archor: true
