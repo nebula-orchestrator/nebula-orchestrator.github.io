@@ -25,8 +25,8 @@ version:             1.0.0
 github:
   repo:              https://github.com/kevit/devaid-jekyll-theme
 
-# Gems - Dependencies for this theme
-gems:
+# plugins - Dependencies for this theme
+plugins:
   # None currently
 
 # Build settings
