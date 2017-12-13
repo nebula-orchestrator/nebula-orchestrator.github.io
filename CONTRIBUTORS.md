@@ -16,3 +16,8 @@ Nebula contributors
 * **[Freepik from www.flaticon.com](https://www.flaticon.com/authors/freepik)**  
 
   * Logo
+  
+* **[Xiaoying Riley](http://themes.3rdwavemedia.com)**  
+
+  * DevAid theme
+  
