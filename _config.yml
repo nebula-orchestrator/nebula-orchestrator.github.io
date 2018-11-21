@@ -43,6 +43,9 @@ widgets:
   - title: Docs
     url: docs
     archor: true
+  - title: Try
+    url: try
+    archor: true
   - title: Contact
     url: contact
     archor: true
