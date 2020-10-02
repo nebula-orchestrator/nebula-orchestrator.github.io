@@ -2,7 +2,7 @@
 # Setup
 title:               Nebula
 email:               nebula-orchestrator@googlegroups.com
-tagline:             Docker orchestrator for IoT & distrabuted systems
+tagline:             Docker orchestrator for IoT & distributed systems
 url:                 "https://nebula-orchestrator.github.io" # insert your site's URL
 baseurl:             ""
 
